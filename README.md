@@ -86,7 +86,7 @@ Model dievaluasi menggunakan:
 1. Clone repository:
 
 ```
-git clone https://github.com/username/housing-price-ml.git
+git clone git@github.com:Moreno0987/NLP_UTS.git
 ```
 
 2. Masuk ke folder project:
